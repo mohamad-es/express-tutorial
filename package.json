@@ -25,6 +25,7 @@
     "@types/cookie-parser": "^1.4.9",
     "@types/cors": "^2.8.19",
     "@types/express": "^5.0.3",
+    "@types/mongoose": "^5.11.96",
     "nodemon": "^3.1.10",
     "ts-node": "^10.9.2",
     "typescript": "^5.8.3"
@@ -35,6 +36,10 @@
     "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
     "express": "^5.1.0",
+<<<<<<< HEAD
     "morgan": "^1.10.0"
+=======
+    "mongoose": "^8.16.1"
+>>>>>>> b179fa9dc150487fea960c14bfd9aedc425af832
   }
 }

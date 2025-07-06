@@ -1,7 +1,7 @@
 {
   "compilerOptions": {
-    "module": "nodenext",
-    "moduleResolution": "node16",
+    "module": "commonjs",
+    "moduleResolution": "classic",
     "baseUrl": "src",
     "outDir": "dist",
     "sourceMap": true,

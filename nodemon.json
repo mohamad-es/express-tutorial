@@ -1,5 +1,9 @@
 {
   "watch": ["src"],
   "ext": ".ts,.js",
+<<<<<<< HEAD
   "exec": "ts-node ./src/morgan.ts"
+=======
+  "exec": "ts-node ./src/mongoose.ts"
+>>>>>>> b179fa9dc150487fea960c14bfd9aedc425af832
 }
